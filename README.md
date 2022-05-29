@@ -11,12 +11,12 @@ Goal behind the project was to create an applicaion to apply all the basics of R
 An expense tracker is a software or application that helps to keep an accurate record of your money inflow and outflow.
 </p>
 
-###Credits
+### Credits
 ___
 
 * References: [MDN Docs](https://developer.mozilla.org/en-US/ ) | [W3Schools](https://www.w3schools.com/) | [React JS Docs](https://reactjs.org/docs/getting-started.html)
 
-###Tech Stack
+### Tech Stack
 ___
 
 * HTML 5
